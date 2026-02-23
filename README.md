@@ -1,2 +1,3 @@
 # audio-to-raw
-Turn your song into raw to be able to liste it on "binary waterfall" 
+convertisseur mp3 (ou autre) à Raw pour l'écouter sur "binary-waterfall"
+Soyez sur d'avoir installé python pour l'utiliser https://www.python.org/downloads/
